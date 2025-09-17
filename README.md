@@ -9,7 +9,7 @@
 <h2>description</h2>
 <p>Technical method: <b>Reactjs、 Javascript 、FantaCCS</b></p>
 <p>content:<strong>The Simple 30 Workouts Training Plan.</strong></p>
-<p><deploy: <b>NETFLIY</b></p>
+<p>deploy: <b>NETFLIY</b></p>
 </div>
 
 
