@@ -1,14 +1,16 @@
 <div>
-<h1>HELLO This is my brogram project，deploy on NETFILY. </h1>
+<h1>HELLO This is my brogram project，. </h1>
 <p>the website URL：
 <a href='https://alexisbrogram-plan.netlify.app'/>The brogram</a>
 </p>
 </div>
 
-
+<div>
 <h2>description</h2>
-<div>Technical method: <b>Reactjs、 Javascript 、FantaCCS</b></div>
-<div>content:<strong>The Simple 30 Workouts Training Plan.</strong></div>
+<p>Technical method: <b>Reactjs、 Javascript 、FantaCCS</b></p>
+<p>content:<strong>The Simple 30 Workouts Training Plan.</strong></p>
+<p><deploy: <b>NETFLIY</b></p>
+</div>
 
 
 # React + Vite
