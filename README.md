@@ -1,3 +1,9 @@
+HELLO This is my brogram project，deploy on NETFILY. 
+https://alexisbrogram-plan.netlify.app/
+
+Technical method: Reactjs、 Javascript 、FantaCCS
+description:The Simple 30 Workouts Training Plan.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
