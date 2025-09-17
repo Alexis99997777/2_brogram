@@ -1,8 +1,9 @@
 HELLO This is my brogram project，deploy on NETFILY. 
-https://alexisbrogram-plan.netlify.app/
+the website URL：https://alexisbrogram-plan.netlify.app/
 
+description
 Technical method: Reactjs、 Javascript 、FantaCCS
-description:The Simple 30 Workouts Training Plan.
+content:The Simple 30 Workouts Training Plan.
 
 # React + Vite
 
