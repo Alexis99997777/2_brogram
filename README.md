@@ -7,6 +7,7 @@
 
 HELLO This is my brograme project.
 <p>🌟Technical method: <b>Reactjs、 Javascript 、FantaCCS</b></p>
+<p>🌟Framework:Vue</p>
 <p>🌟content:<strong>The Simple 30 Workouts Training Plan.</strong></p>
 <p>🌟deploy: <b>Netfliy</b></p>
 
