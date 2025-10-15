@@ -105,7 +105,7 @@ Deployed on Netlify with:
 
 <h2>🌐 Live Website</h2>
 <p>
-Visit the live application: <a href="https://thebrogram.com">The Brogram</a>
+Visit the live application: <a href="https://alexisbrogram-plan.netlify.app/">The Brogram</a>
 </p>
 
 # React + Vite
